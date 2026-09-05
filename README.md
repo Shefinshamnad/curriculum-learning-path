@@ -175,8 +175,11 @@ The project includes API tests covering prerequisite validation.
 
 Git
 
-The project uses Git with separate commits for the initial implementation and API prerequisite validation tests.
+The project uses Git with separate commits for:
 
+Initial application implementation
+API prerequisite validation tests
+Project documentation
 Repository
 
 GitHub:
